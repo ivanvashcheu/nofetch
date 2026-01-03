@@ -64,19 +64,9 @@ $ nofetch
 
 add the `nofetch` command to your shell's startup file to see it every time you open a new terminal.
 
-**for bash** (`~/.bashrc` or `~/.bash_profile`):
+**for fish** (`~/.config/fish/functions/fish_greeting.fish`):
 ```bash
-echo "nofetch" >> ~/.bashrc
-```
-
-**for zsh** (`~/.zshrc`):
-```bash
-echo "nofetch" >> ~/.zshrc
-```
-
-**for fish** (`~/.config/fish/config.fish`):
-```bash
-echo "nofetch" >> ~/.config/fish/config.fish
+nofetch >> ~/.config/fish/functions/fish_greeting.fish
 ```
 
 after editing, reload your shell configuration or open a new terminal window.
