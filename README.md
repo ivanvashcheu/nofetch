@@ -52,7 +52,7 @@ the application gathers and displays:
 cargo install nofetch
 ```
 
-## 🖥️ usage
+## usage
 
 run `nofetch` directly from your terminal:
 ```bash
@@ -112,7 +112,7 @@ contributions are welcome! whether it's adding support for more system metrics, 
 
 please ensure your code follows the existing style and includes appropriate documentation.
 
-## ⚖️ license
+## license
 
 this project is licensed under the GNU GPLv3 license - see the [license](https://www.gnu.org/licenses/gpl-3.0.html) for details.
 
